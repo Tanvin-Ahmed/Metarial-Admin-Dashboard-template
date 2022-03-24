@@ -127,3 +127,4 @@ Please generate a [Github issue](https://github.com/codedthemes/berry-free-react
  - Facebook [https://www.facebook.com/codedthemes](https://www.facebook.com/codedthemes)
  - Twitter [https://twitter.com/codedthemes](https://twitter.com/codedthemes)
 # Metarial-Admin-Dashboard-template
+# Metarial-Admin-Dashboard-template
