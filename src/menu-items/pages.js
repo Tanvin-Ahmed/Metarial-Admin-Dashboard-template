@@ -1,9 +1,10 @@
 // assets
-import { IconKey } from '@tabler/icons';
+import { IconKey, IconActivity } from '@tabler/icons';
 
 // constant
 const icons = {
-    IconKey
+    IconKey,
+    IconActivity
 };
 
 // ==============================|| EXTRA PAGES MENU ITEMS ||============================== //
@@ -36,6 +37,13 @@ const pages = {
                     target: true
                 }
             ]
+        },
+        {
+            id: 'companies',
+            title: 'Companies',
+            type: 'item',
+            icon: icons.IconActivity,
+            url: '/pages/companies'
         }
     ]
 };
